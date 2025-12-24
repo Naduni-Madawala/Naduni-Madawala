@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ciao 👋🏻 
+I'm Naduni Madawala 
 
-<!--
-**Naduni-Madawala/Naduni-Madawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cloud & SaaS Operations Engineer who enjoys working with cloud platforms,
+DevOps tools, automation, and solving real-world production issues.
 
-Here are some ideas to get you started:
+Here you’ll find my projects, experiments, and automation work related to
+AWS, Azure, CI/CD pipelines, Linux, Docker, and Kubernetes.
+I like learning by doing and improving things step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio : https://naduni-madawala.vercel.app  
+📂 GitHub (code & scripts): https://github.com/Naduni-Madawala  
+💼 LinkedIn: https://www.linkedin.com/in/naduni-madawala-b89366215/
